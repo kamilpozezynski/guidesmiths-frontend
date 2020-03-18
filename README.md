@@ -1,6 +1,9 @@
 ## Clone
 `git clone https://github.com/kamilpozezynski/guidesmiths-frontend.git`
 
+## Go to project directory 
+ cd guidesmiths-frontend/
+
 ## Install dependencies:
 `npm install`
 ### `npm start`
